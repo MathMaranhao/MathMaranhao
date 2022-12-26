@@ -4,7 +4,7 @@
 - 📚 Estudando JavaScript e NodeJs
 
 ##
- - Tecnologias que utilizo hoje:
+ - Tecnologias:
  
 <div>
   <img align="center" alt="mathJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
